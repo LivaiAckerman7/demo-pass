@@ -115,7 +115,7 @@ export default function PaaSExplainer() {
           </h1>
           
           <p className="text-2xl md:text-3xl text-blue-200 mb-12 max-w-3xl mx-auto leading-relaxed animate-slide-up delay-200">
-            Déployez vos applications sans gérer l'infrastructure
+            Déployez vos applications en toute simplicité sans gérer l'infrastructure
           </p>
 
           <div className="flex gap-4 justify-center animate-slide-up delay-300">
